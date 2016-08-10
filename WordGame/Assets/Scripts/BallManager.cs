@@ -54,7 +54,7 @@ public class BallManager : MonoBehaviour
 	void Start()
     {
         float startX = -4f;
-        float startY = -4f;
+        float startY = -5f;
         float spacing = 1f;
 
         letterPool = new StringBuilder();
